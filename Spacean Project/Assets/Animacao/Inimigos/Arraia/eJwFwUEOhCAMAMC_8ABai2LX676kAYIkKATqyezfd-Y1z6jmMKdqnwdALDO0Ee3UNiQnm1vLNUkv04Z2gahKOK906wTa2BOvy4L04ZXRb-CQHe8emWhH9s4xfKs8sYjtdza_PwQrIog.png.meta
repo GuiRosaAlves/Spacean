@@ -1,0 +1,230 @@
+fileFormatVersion: 2
+guid: 27654c70092cdaf4fb7a87ba785b8ba7
+timeCreated: 1493609775
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Corpo5
+    21300002: eJwFwUEOhCAMAMC_8ABai2LX676kAYIkKATqyezfd-Y1z6jmMKdqnwdALDO0Ee3UNiQnm1vLNUkv04Z2gahKOK906wTa2BOvy4L04ZXRb-CQHe8emWhH9s4xfKs8sYjtdza_PwQrIog_0
+    21300004: AntenaEsq
+    21300006: AntenaDir
+    21300008: AsaEsq
+    21300010: Rabo
+    21300012: Corpo1
+    21300014: Corpo2
+    21300016: Corpo3
+    21300018: Corpo4
+    21300020: AsaDir
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: eJwFwUEOhCAMAMC_8ABai2LX676kAYIkKATqyezfd-Y1z6jmMKdqnwdALDO0Ee3UNiQnm1vLNUkv04Z2gahKOK906wTa2BOvy4L04ZXRb-CQHe8emWhH9s4xfKs8sYjtdza_PwQrIog_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 296
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AntenaEsq
+      rect:
+        serializedVersion: 2
+        x: 388.45642
+        y: 342.5796
+        width: 39.65976
+        height: 57.42041
+      alignment: 9
+      pivot: {x: 0.6694394, y: 0.22471714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AntenaDir
+      rect:
+        serializedVersion: 2
+        x: 459.85797
+        y: 344
+        width: 41.04492
+        height: 56.5119
+      alignment: 9
+      pivot: {x: 0.33220392, y: 0.24747945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AsaEsq
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 221.99998
+        width: 144
+        height: 137.00002
+      alignment: 9
+      pivot: {x: 0.9136039, y: 0.46346584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rabo
+      rect:
+        serializedVersion: 2
+        x: 317.53952
+        y: 13.399994
+        width: 45.82831
+        height: 280.7
+      alignment: 9
+      pivot: {x: 0.48152497, y: 0.945748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Corpo1
+      rect:
+        serializedVersion: 2
+        x: 395.32733
+        y: 236.11633
+        width: 97.67267
+        height: 93.17276
+      alignment: 9
+      pivot: {x: 0.5034435, y: 0.5031907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Corpo2
+      rect:
+        serializedVersion: 2
+        x: 401.11636
+        y: 166.85417
+        width: 84.93225
+        height: 80.6432
+      alignment: 9
+      pivot: {x: 0.51080287, y: 0.5040205}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Corpo3
+      rect:
+        serializedVersion: 2
+        x: 408.38586
+        y: 102.13247
+        width: 71.55316
+        height: 76.34617
+      alignment: 9
+      pivot: {x: 0.51170534, y: 0.509096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Corpo4
+      rect:
+        serializedVersion: 2
+        x: 413.2907
+        y: 62.029053
+        width: 61.699554
+        height: 57.218636
+      alignment: 9
+      pivot: {x: 0.48961923, y: 0.5063201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AsaDir
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 23.000002
+        width: 152
+        height: 137
+      alignment: 9
+      pivot: {x: 0.14766252, y: 0.49634656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Corpo5
+      rect:
+        serializedVersion: 2
+        x: 407.6
+        y: 19.100002
+        width: 73.400024
+        height: 42.18769
+      alignment: 9
+      pivot: {x: 0.5095365, y: 0.50725687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 97885209844851
+  assetBundleName: 
+  assetBundleVariant: 

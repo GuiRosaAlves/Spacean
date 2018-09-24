@@ -1,0 +1,230 @@
+fileFormatVersion: 2
+guid: b9bbeaa506cbe5d4394f63790b456776
+timeCreated: 1493560402
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tutubarao_0
+    21300002: Barbatana
+    21300004: Corpo1
+    21300006: Cabeca
+    21300008: RaboFim
+    21300010: RaboMeio1
+    21300012: RaboComeco
+    21300014: Corpo2
+    21300016: RaboMeio2
+    21300018: RaboMeio3
+    21300020: RaboMeio4
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tutubarao_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 199
+        height: 440
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Barbatana
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 309
+        width: 41
+        height: 123
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Corpo1
+      rect:
+        serializedVersion: 2
+        x: 336.47314
+        y: 309.55893
+        width: 120.450195
+        height: 122.86435
+      alignment: 9
+      pivot: {x: 0.50250524, y: 0.51228094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cabeca
+      rect:
+        serializedVersion: 2
+        x: 492.75262
+        y: 290.0809
+        width: 105.247375
+        height: 149.9191
+      alignment: 9
+      pivot: {x: 0.5779399, y: 0.092998154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RaboFim
+      rect:
+        serializedVersion: 2
+        x: 260.95316
+        y: 166.06267
+        width: 66.046875
+        height: 109.71901
+      alignment: 9
+      pivot: {x: 0.5120191, y: 0.8881673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RaboMeio1
+      rect:
+        serializedVersion: 2
+        x: 351.17316
+        y: 200
+        width: 51.826843
+        height: 47
+      alignment: 9
+      pivot: {x: 0.50509816, y: 0.8079366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RaboComeco
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 202
+        width: 51
+        height: 47.000015
+      alignment: 9
+      pivot: {x: 0.48537192, y: 0.82380944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Corpo2
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 179
+        width: 78
+        height: 77.76044
+      alignment: 9
+      pivot: {x: 0.53205127, y: 0.4951104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RaboMeio2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 152
+        width: 52.240265
+        height: 47
+      alignment: 9
+      pivot: {x: 0.48812923, y: 0.81746036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RaboMeio3
+      rect:
+        serializedVersion: 2
+        x: 351.37985
+        y: 103
+        width: 51.620148
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5031165, y: 0.8142859}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RaboMeio4
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 52
+        width: 51
+        height: 47
+      alignment: 9
+      pivot: {x: 0.49487248, y: 0.8366512}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 97881838028504
+  assetBundleName: 
+  assetBundleVariant: 

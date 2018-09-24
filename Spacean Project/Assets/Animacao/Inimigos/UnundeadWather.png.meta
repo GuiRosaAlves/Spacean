@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: 2810a81dbf042bd4c983fa6585797e1c
+timeCreated: 1493591033
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UnundeadWather_0
+    21300002: Tentaculo1
+    21300004: Tentaculo2
+    21300006: Tentaculo3
+    21300008: Tentaculo4
+    21300010: AguaViva1
+    21300012: AguaViva2
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UnundeadWather_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 152
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tentaculo1
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 21
+        width: 41
+        height: 290
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tentaculo2
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 0
+        width: 41
+        height: 284
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.49119717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tentaculo3
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 0
+        width: 41
+        height: 284
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.49119717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tentaculo4
+      rect:
+        serializedVersion: 2
+        x: 398.57083
+        y: 24.963623
+        width: 49.424744
+        height: 295.1325
+      alignment: 9
+      pivot: {x: 0.5052916, y: 0.95288444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AguaViva1
+      rect:
+        serializedVersion: 2
+        x: 466.1175
+        y: 180.44821
+        width: 158.1831
+        height: 162.84628
+      alignment: 9
+      pivot: {x: 0.50500023, y: 0.4792973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AguaViva2
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2.8506827
+        width: 157
+        height: 146.4304
+      alignment: 9
+      pivot: {x: 0.51592356, y: 0.49272084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 97883981676723
+  assetBundleName: 
+  assetBundleVariant: 
