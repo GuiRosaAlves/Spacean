@@ -1,21 +1,42 @@
 fileFormatVersion: 2
 guid: 27654c70092cdaf4fb7a87ba785b8ba7
-timeCreated: 1493609775
-licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: Corpo5
-    21300002: eJwFwUEOhCAMAMC_8ABai2LX676kAYIkKATqyezfd-Y1z6jmMKdqnwdALDO0Ee3UNiQnm1vLNUkv04Z2gahKOK906wTa2BOvy4L04ZXRb-CQHe8emWhH9s4xfKs8sYjtdza_PwQrIog_0
-    21300004: AntenaEsq
-    21300006: AntenaDir
-    21300008: AsaEsq
-    21300010: Rabo
-    21300012: Corpo1
-    21300014: Corpo2
-    21300016: Corpo3
-    21300018: Corpo4
-    21300020: AsaDir
-  serializedVersion: 4
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Corpo5
+  - first:
+      213: 21300002
+    second: eJwFwUEOhCAMAMC_8ABai2LX676kAYIkKATqyezfd-Y1z6jmMKdqnwdALDO0Ee3UNiQnm1vLNUkv04Z2gahKOK906wTa2BOvy4L04ZXRb-CQHe8emWhH9s4xfKs8sYjtdza_PwQrIog_0
+  - first:
+      213: 21300004
+    second: AntenaEsq
+  - first:
+      213: 21300006
+    second: AntenaDir
+  - first:
+      213: 21300008
+    second: AsaEsq
+  - first:
+      213: 21300010
+    second: Rabo
+  - first:
+      213: 21300012
+    second: Corpo1
+  - first:
+      213: 21300014
+    second: Corpo2
+  - first:
+      213: 21300016
+    second: Corpo3
+  - first:
+      213: 21300018
+    second: Corpo4
+  - first:
+      213: 21300020
+    second: AsaDir
+  externalObjects: {}
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -23,6 +44,8 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -30,7 +53,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -38,10 +66,13 @@ TextureImporter:
   textureFormat: 1
   maxTextureSize: 2048
   textureSettings:
-    filterMode: -1
-    aniso: -1
-    mipBias: -1
-    wrapMode: 1
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -50,33 +81,77 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
-  - buildTarget: DefaultTexturePlatform
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
+    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-  - buildTarget: Standalone
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
     maxTextureSize: 2048
+    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -92,7 +167,15 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: AntenaEsq
       rect:
@@ -105,7 +188,15 @@ TextureImporter:
       pivot: {x: 0.6694394, y: 0.22471714}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: AntenaDir
       rect:
@@ -118,7 +209,15 @@ TextureImporter:
       pivot: {x: 0.33220392, y: 0.24747945}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: AsaEsq
       rect:
@@ -131,7 +230,15 @@ TextureImporter:
       pivot: {x: 0.9136039, y: 0.46346584}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Rabo
       rect:
@@ -144,7 +251,15 @@ TextureImporter:
       pivot: {x: 0.48152497, y: 0.945748}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Corpo1
       rect:
@@ -157,7 +272,15 @@ TextureImporter:
       pivot: {x: 0.5034435, y: 0.5031907}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Corpo2
       rect:
@@ -170,7 +293,15 @@ TextureImporter:
       pivot: {x: 0.51080287, y: 0.5040205}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Corpo3
       rect:
@@ -183,7 +314,15 @@ TextureImporter:
       pivot: {x: 0.51170534, y: 0.509096}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Corpo4
       rect:
@@ -196,7 +335,15 @@ TextureImporter:
       pivot: {x: 0.48961923, y: 0.5063201}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: AsaDir
       rect:
@@ -209,7 +356,15 @@ TextureImporter:
       pivot: {x: 0.14766252, y: 0.49634656}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Corpo5
       rect:
@@ -222,9 +377,39 @@ TextureImporter:
       pivot: {x: 0.5095365, y: 0.50725687}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
-  spritePackingTag: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AntenaDir: 21300006
+      AntenaEsq: 21300004
+      AsaDir: 21300020
+      AsaEsq: 21300008
+      Corpo1: 21300012
+      Corpo2: 21300014
+      Corpo3: 21300016
+      Corpo4: 21300018
+      Corpo5: 21300000
+      Rabo: 21300010
+      eJwFwUEOhCAMAMC_8ABai2LX676kAYIkKATqyezfd-Y1z6jmMKdqnwdALDO0Ee3UNiQnm1vLNUkv04Z2gahKOK906wTa2BOvy4L04ZXRb-CQHe8emWhH9s4xfKs8sYjtdza_PwQrIog_0: 21300002
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
   userData: 97885209844851
   assetBundleName: 
   assetBundleVariant: 
