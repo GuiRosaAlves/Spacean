@@ -1,6 +1,6 @@
 # Spacean - A Unity 2D Game
 
-![Spacean Banner](images/spacean_banner.png)
+![Spacean Banner](spacean_banner.png)
 
 Welcome to Spacean, an exciting 2D game that combines the vastness of space with the mysteries of the ocean! In this game, you'll take control of a powerful shark equipped with colored laser projectiles to defend against waves of enemies. Sharpen your reflexes and strategic thinking to survive and score big!
 
@@ -21,8 +21,8 @@ Welcome to Spacean, an exciting 2D game that combines the vastness of space with
 
 ## Screenshots
 
-![Screenshot 1](images/screenshot_1.png)
-![Screenshot 2](images/screenshot_2.png)
+![Screenshot 1](screenshot_1.png)
+![Screenshot 2](screenshot_2.png)
 
 ## Credits
 
